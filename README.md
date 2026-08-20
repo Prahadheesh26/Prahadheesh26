@@ -161,7 +161,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏗️ Data Analyst — Sri Sai Suriya Construction | Kumbakonam, Tamil Nadu | Jan 2025 – Feb 2026</b></summary>
+<summary><b>🏗️ Data Analyst — Sri Sai Suriya Construction | Kumbakonam, Tamil Nadu | Sep 2025 – Present</b></summary>
 
 <br/>
 
