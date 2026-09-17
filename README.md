@@ -34,7 +34,7 @@ class PrahadheeshS:
         self.location     = "Chennai, Tamil Nadu, India"
         self.degree       = "B.E. Electronics & Communication Engineering"
         self.college      = "K. Ramakrishna College of Engineering (Anna University)"
-        self.role         = "Data Scientist & Analyst"
+        self.role         = "Data Scientist & Analyst & AI Engineer"
         self.stack        = [
             "Python", "SQL", "Power BI", "Tableau",
             "Scikit-learn", "TensorFlow", "PyTorch",
@@ -161,7 +161,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏗️ Data Analyst — Sri Sai Suriya Construction | Kumbakonam, Tamil Nadu | Sep 2025 – Present</b></summary>
+<summary><b>🏗️ Data Analyst — Sri Sai Suriya Construction | Kumbakonam, Tamil Nadu | Feb 2026 - Aug 2026</b></summary>
 
 <br/>
 
